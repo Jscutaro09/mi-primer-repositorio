@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    background-color: rgb(228, 247, 63);
+    align-items: center;
+    padding: 10px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 70px;
+    margin-left: 24px;
+    border: 0px;
+}
+a{
+    font-size: 20px;
+    color: rgb(8, 2, 2);
+    text-decoration: none;
+}
+body {
+    background-color: rgb(115, 119, 119);
+    margin: 0px;
+}
+img{
+    border-radius: 60px;
+    border: 10px solid rgb(0, 0, 0);
+}
+nav a{
+    font-weight: 600;
+    padding: 20px;
+}
+nav a:hover{
+    color: rgb(223, 26, 26);
+}
+div{
+    display: block;
+    margin-left: 5px;
+}
+input{
+    margin-left: 5px;
+}
+textarea{
+    margin-left: 2px;
+}
+h1{
+    font-size: 55px;
+    
+}
